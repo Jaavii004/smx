@@ -1,0 +1,54 @@
+ * Te has logueao como superusuario
+ * El grupo orchestra existe
+ * El usuario piccolo existe
+ * El grupo woodwind existe
+   · Añadido el usuario piccolo al grupo woodwind
+   · Añadido el usuario piccolo al grupo orchestra
+ * El usuario clarinet existe
+ * El grupo woodwind existe
+   · Añadido el usuario clarinet al grupo woodwind
+   · Añadido el usuario clarinet al grupo orchestra
+ * El usuario horn existe
+ * El grupo metalwind existe
+   · Añadido el usuario horn al grupo metalwind
+   · Añadido el usuario horn al grupo orchestra
+ * El usuario trunk existe
+ * El grupo metalwind existe
+   · Añadido el usuario trunk al grupo metalwind
+   · Añadido el usuario trunk al grupo orchestra
+ * El usuario fiddle existe
+ * El grupo strings existe
+   · Añadido el usuario fiddle al grupo strings
+   · Añadido el usuario fiddle al grupo orchestra
+ * El usuario viola existe
+ * El grupo strings existe
+   · Añadido el usuario viola al grupo strings
+   · Añadido el usuario viola al grupo orchestra
+ * El usuario cello existe
+ * El grupo strings existe
+   · Añadido el usuario cello al grupo strings
+   · Añadido el usuario cello al grupo orchestra
+ * El usuario doublebass existe
+ * El grupo strings existe
+   · Añadido el usuario doublebass al grupo strings
+   · Añadido el usuario doublebass al grupo orchestra
+ * El usuario battery existe
+ * El grupo percussion existe
+   · Añadido el usuario battery al grupo percussion
+   · Añadido el usuario battery al grupo orchestra
+ * El usuario xylophone existe
+ * El grupo percussion existe
+   · Añadido el usuario xylophone al grupo percussion
+   · Añadido el usuario xylophone al grupo orchestra
+ * El usuario conductor existe
+ * El grupo conductor existe
+   · Añadido el usuario conductor al grupo conductor
+   · Añadido el usuario conductor al grupo orchestra
+ * La carpeta /srv/sox/TheGreatGateOfKiev existe
+   · El fichero /srv/sox/TheGreatGateOfKiev/TheGreatGateOfKiev.txt existe
+ * La carpeta /srv/sox/BlueDanube existe
+   · El fichero /srv/sox/BlueDanube/BlueDanube.txt existe
+ * La carpeta /srv/sox/NewWorldSymphonie existe
+   · El fichero /srv/sox/NewWorldSymphonie/NewWorldSymphonie.txt existe
+ * La carpeta /srv/sox/TheJazzSuite existe
+   · El fichero /srv/sox/TheJazzSuite/TheJazzSuite.txt existe

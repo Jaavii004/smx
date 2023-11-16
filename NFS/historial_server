@@ -1,0 +1,75 @@
+    1  passwd administrador
+    2  apt update; apt full-upgrade --yes ; apt install libreoffice-l10n-es firefox-locale-es
+    3  shutdown -h now
+    4  ls
+    5  +ls
+    6  l
+    7  ñ
+    8  ls
+    9  w
+   10  apt get ibnstall fullgrade
+   11  sudo apt-get
+   12  apt-getupgrade
+   13  sudo apt-getupgrade
+   14  sudo apt-get upgrade
+   15  sudo apt-get update
+   16  sudo apt-get upgrade
+   17  ls
+   18  apt update
+   19  sudo apt install ntfs-kernel-server
+   20  sudo apt-get install ntfs-kernel-server
+   21  apt update; apt full-upgrade
+   22  sudo apt install ntfs-kernel-server
+   23  sudo apt install nfs-kernel-server
+   24  ls
+   25  la -a
+   26  cd /srv/
+   27  ls
+   28  l
+   29  sl
+   30  ls
+   31  l
+   32  sl
+   33  clea
+   34  ç
+   35  clear
+   36  sudo mkdir -p /srv/nfs
+   37  sudo mkdir -p /srv/nfs/exportado-todos
+   38  sudo mkdir -p /srv/nfs/exportado-lan
+   39  nano /etc/exports 
+   40  sudo /etc/init.d/nfs-kernel-server start
+   41  systemctl  restart nfs-kernel-server
+   42  systemctl  restart nfs-kernel-server.service
+   43  ip a
+   44  cd nfs/exportado-todos/
+   45  nano hola
+   46  nano /etc/exports 
+   47  git clone git@gitlab.com:script25/script.git
+   48  apt intall git
+   49  apt install git
+   50  git clone git@gitlab.com:script25/script.git
+   51  git clone https://gitlab.com/script25/script.git
+   52  mkdir script/NFS
+   53  cp /etc/fstab /srv/nfs/exportado-todos/script/NFS/
+   54  ls /srv/nfs/exportado-todos/script/NFS/
+   55  cat /srv/nfs/exportado-todos/script/NFS/
+   56  cat /srv/nfs/exportado-todos/script/NFS/fstab 
+   57  rm -r /srv/nfs/exportado-todos/script/NFS/fstab 
+   58  ls /srv/nfs/exportado-todos/script/NFS/
+   59  cp /etc/exports /srv/nfs/exportado-todos/script/NFS/
+   60  ls /srv/nfs/exportado-todos/script/NFS/
+   61  cat /srv/nfs/exportado-todos/script/NFS/exports 
+   62  history
+   63  git add script/NFS/exports 
+   64  cd script/NFS/
+   65  ls
+   66  git add exports 
+   67  git commit
+   68  git commit -a 
+   69  git config --global user.email "javierpuertas2004@gmail.com"
+   70  git config --global user.name "jaavii_04"
+   71  git commit -m "Subo el archivo de exports del servidor"
+   72  git push origin main
+   73  git pull
+   74  history
+   75  history >> /srv/nfs/exportado-todos/script/NFS/historial_server

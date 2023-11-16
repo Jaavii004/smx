@@ -1,0 +1,43 @@
+#!/bin/bash
+for work in Nocturns Fratres Adagio DeProfundis; do
+     [ -d /srv/sox/$work ]  || mkdir -p /srv/sox/$work
+done
+
+for instrument in viola fiddle piccolo ;do
+    for work in Nocturns Fratres Adagio DeProfundis; do
+        echo "$instrument" > /srv/sox/$work/$instrument.txt
+        chmod 640 /srv/sox/$work/$instrument.txt
+        if [ $instrument = "viola" -o $instrument = "fiddle" ]; then
+            chown $instrument:strings /srv/sox/$work/$instrument.txt
+        else
+            chown $instrument:woodwind /srv/sox/$work/$instrument.txt
+        fi
+
+    done
+done
+
+echo " * Working with Nocturns"
+find /srv/sox/Nocturns -name "*.txt" -exec touch -t "197701010800" {} \;
+
+echo " * Working with Fratres "
+chown root:orchestra /srv/sox/Fratres
+chmod g+s /srv/sox/Fratres
+
+echo " * Working with De Profundis"
+
+users="piccolo viola fiddle"
+folders="Nocturns Fratres DeProfundis Adagio"
+
+for folder in $folders; do
+    for user in $users; do
+
+id -u $user >> /srv/sox/$folder/$user.txt
+id -g $user >> /srv/sox/$folder/$user.txt
+
+    done
+done
+
+echo "---- RESULTADO ----"
+tree -fpuga
+
+exit 0

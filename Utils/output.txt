@@ -1,0 +1,48 @@
+********[WARNING]************
+**[Estas dos IP: 192.168.5.116 192.168.5.121 trabajan sobre esta MAC  00:e0:4c:68:06:63]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.131 192.168.5.138 trabajan sobre esta MAC  00:e0:4c:69:9b:e7]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.178 192.168.5.179 trabajan sobre esta MAC  08:00:27:22:86:d9]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.197 192.168.5.198 trabajan sobre esta MAC  20:1a:06:51:9f:ec]
+
+********[WARNING]************
+**[Estas dos IP: 172.29.1.125 172.29.1.128 trabajan sobre esta MAC  30:9c:23:4a:c9:3e]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.119 192.168.5.123 trabajan sobre esta MAC  6c:02:e0:d3:7b:e1]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.134 192.168.5.135 trabajan sobre esta MAC  ac:e2:d3:e5:5a:6c]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.177 192.168.5.178 trabajan sobre esta MAC  c8:5b:76:72:6a:af]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.116 192.168.5.121 trabajan sobre esta MAC  00:e0:4c:68:06:63]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.131 192.168.5.138 trabajan sobre esta MAC  00:e0:4c:69:9b:e7]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.178 192.168.5.179 trabajan sobre esta MAC  08:00:27:22:86:d9]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.197 192.168.5.198 trabajan sobre esta MAC  20:1a:06:51:9f:ec]
+
+********[WARNING]************
+**[Estas dos IP: 172.29.1.125 172.29.1.128 trabajan sobre esta MAC  30:9c:23:4a:c9:3e]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.119 192.168.5.123 trabajan sobre esta MAC  6c:02:e0:d3:7b:e1]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.134 192.168.5.135 trabajan sobre esta MAC  ac:e2:d3:e5:5a:6c]
+
+********[WARNING]************
+**[Estas dos IP: 192.168.5.177 192.168.5.178 trabajan sobre esta MAC  c8:5b:76:72:6a:af]
+

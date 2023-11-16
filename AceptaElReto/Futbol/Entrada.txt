@@ -1,0 +1,9 @@
+4 3 3
+10
+F F F F C C C C D D D F
+4 3 3
+10
+F F F F F C C C C D D F
+4 3 3
+10
+F F F F F C C C C D D F

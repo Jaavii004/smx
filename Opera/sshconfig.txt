@@ -1,0 +1,4 @@
+DenyGroups All
+AllowGroups spectador
+ForceCommand /home/javier/GitLab/SOX-Script/Opera/mostrar_ssh.sh
+Banner /etc/ssh/motd

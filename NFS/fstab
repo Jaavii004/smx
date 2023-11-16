@@ -1,0 +1,6 @@
+# Pluggable devices are handled by uDev, they are not in fstab
+UUID=2a0f0bcc-3772-4d89-9345-2a10c825a5ab / ext4 noatime 1 1
+UUID=d407b442-6149-4c06-9d95-77d0695d3829 swap swap defaults 0 0
+
+
+192.168.1.177:/srv/nfs	/srv/mount-point	nfs	defaults,auto	0	0

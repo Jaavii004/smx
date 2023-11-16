@@ -1,0 +1,5 @@
+# Pluggable devices are handled by uDev, they are not in fstab
+UUID=8f48ef4d-37a5-43eb-a81d-f5be437c34d6 / ext4 noatime 1 1
+
+//10.0.2.15/Compartido-por-goblins	/client	cifs	credentials=/root/.credentials	0	0
+//10.0.2.15/Compartido-Win-SMB	/client	cifs	credentials=/root/.credentials	0	0
