@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 if [ -f entrada.txt ]; then
 	rm -rf salida.txt
 	cat entrada.txt | while read line; do
